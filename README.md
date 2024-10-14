@@ -4,6 +4,8 @@ I'm Spargonaut.
 I'm a polyglot software engineer.  
 I've been writing software professionally since 2010.  
 I've been playing with, and working with computers since the late 1990s.
+I've been working remotely part-time since 2012.  
+I've been working remotely full-time since 2018.  
 
 - I’m currently working on an application to track data on my Hydroponic Farmstand
 - I’m currently learning rust and Go
